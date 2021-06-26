@@ -2,5 +2,7 @@
 
 Dataset: [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 
+[Lung Segmentation](https://github.com/younggon2/Research-Segmentation-Lung-CXR-COVID19)
+
 Inference example on a random subset of the dataset (10 images randomly chosen for each class): [**inference_example.ipynb**](https://github.com/Stergios-Giannios/covid-19-detection/blob/main/inference_example.ipynb)
 
